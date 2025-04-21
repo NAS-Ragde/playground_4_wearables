@@ -1,1 +1,8 @@
 rootProject.name = 'wearables-demo'
+
+dependencyResolutionManagement {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
